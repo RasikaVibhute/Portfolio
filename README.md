@@ -6,4 +6,4 @@ Throughout my career and academic journey, I have built a strong foundation in m
 
 This repository showcases my coding skills and applied projects using freely available datasets.
 
-Feel free to explore, and check out my CV for more details.
+Feel free to explore, and check out my [CV](https://github.com/RasikaVibhute/Portfolio/blob/main/Rasika%20Vibhute%20CV.pdf) for more details.
