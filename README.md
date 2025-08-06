@@ -12,13 +12,13 @@ Feel free to explore, and check out my [CV](https://github.com/RasikaVibhute/Por
 - [About](https://github.com/RasikaVibhute/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/RasikaVibhute/Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Predicting coupon acceptance based on driving context](https://github.com/RasikaVibhute/Portfolio/blob/main/README.md#1. predicting coupon acceptance based on driving context)
+    1. [Predicting coupon acceptance based on driving context](https://github.com/RasikaVibhute/Portfolio/blob/main/README.md#a.-predicting-coupon-acceptance-based-on-driving-context)
 
 ## Portfolio Projects
 In this section, I have listed data analytics projects with brief descriptions of the problems addressed and the technology stack used to solve them.
 
 ### Python
-### 1. Predicting coupon acceptance based on driving context
+### a. Predicting coupon acceptance based on driving context
 **Code:** [Predicting coupon acceptance based on driving context.ipynb](https://github.com/RasikaVibhute/PortfolioProjects/blob/main/Predicting%20coupon%20acceptance%20based%20on%20driving%20context.ipynb)
 
 **Goal:** To predict whether a person will accept a coupon based on their demographic information, preferences, and driving scenario context.
